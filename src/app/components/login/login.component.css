@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient(to bottom right, #2E7DB8, #8847AD);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: fit-content;
+    padding: 0px;
+    background-color: rgb(230, 230, 230);
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 0px;
+    
+}
+
+input{
+    margin: 30px 10% 0px 10%;
+    padding: 5px 20px;
+    width: 80%;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: rgb(230, 230, 230);
+    color: rgb(182, 182, 182);
+    border-color: rgb(182, 182, 182);
+}
+
+div{
+    text-align: center;
+    margin: 10px;
+}
+
+a{
+    color: black;
+}
+
+.btn{
+    width: 50%;
+    margin: 10px 25% 60px 25%;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #2E7DB8, #8847AD);
+
+}
